@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+theme: minima
+title: Example Site Using Github
+header_pages:  
+  - hello.md
