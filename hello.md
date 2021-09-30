@@ -2,8 +2,7 @@
 layout: default
 title: hello
 permalink: /hello/
-
-___
+---
 
 ## Hello World
 
