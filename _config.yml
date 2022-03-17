@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-midnight
 title: Example Site Using Github
 header_pages:  
   - hello.md
